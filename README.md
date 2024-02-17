@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**g-hano/g-hano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student interested in AI, Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-hano&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-Powered-Trip-Planner)](https://github.com/g-hano/Gemini-Powered-Trip-Planner)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Turkish-Movie-Classification-with-Neural-Networks)](https://github.com/g-hano/Turkish-Movie-Classification-with-Neural-Networks)
+
+## Contact Me
+- Email: your_email@example.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chanyalcin)
+- Twitter: [Twitter Profile](https://twitter.com/Chan__Ya)
