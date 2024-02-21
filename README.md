@@ -16,6 +16,6 @@ I am a Software Engineering student interested in AI, Machine Learning and Deep 
 </div>
 
 ## Contact Me
-- Email: your_email@example.com
+- Email: mcihan.yalcin@outlook.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chanyalcin)
 - Twitter: [Twitter Profile](https://twitter.com/Chan__Ya)
