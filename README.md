@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-I am a Software Engineering student interested in AI, Machine Learning and Deep Learning.
+I am a Software Engineering student interested in Generative AI, Machine Learning and Deep Learning.
 
 ## My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-hano&show_icons=true&theme=radical)
 
 ## My Top Repositories
 <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/g-hano/ChatBot-Llama2-Finetuned">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ChatBot-Llama2-Finetuned&hide_title=true" alt="ChatBot Llama2 Finetuned">
+    </a>
+    <a href="https://github.com/g-hano/Gemini-to-Image">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-to-Image&hide_title=true" alt="Gemini to Image">
+    </a>
     <a href="https://github.com/g-hano/Gemini-Powered-Trip-Planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-Powered-Trip-Planner" alt="Gemini Powered Trip Planner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-Powered-Trip-Planner&hide_title=true" alt="Gemini Powered Trip Planner">
     </a>
     <a href="https://github.com/g-hano/Turkish-Movie-Classification-with-Neural-Networks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Turkish-Movie-Classification-with-Neural-Networks" alt="Turkish Movie Classification with Neural Networks">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Turkish-Movie-Classification-with-Neural-Networks&hide_title=true" alt="Turkish Movie Classification with Neural Networks">
     </a>
 </div>
 
