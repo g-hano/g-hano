@@ -2,9 +2,6 @@
 
 I am a Software Engineering student interested in Generative AI, Machine Learning and Deep Learning.
 
-## My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-hano&show_icons=true&theme=radical)
-
 ## My Top Repositories
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/g-hano/ChatBot-Llama2-Finetuned">
