@@ -2,8 +2,8 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
 
 ## My Top Repositories
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/g-hano/ChatBot-Llama2-Finetuned">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ChatBot-Llama2-Finetuned&hide_title=true" alt="ChatBot Llama2 Finetuned">
+    <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant&hide_title=true" alt="Claude-Powered-Study-Assistant">
     </a>
     <a href="https://github.com/g-hano/Gemini-to-Image">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-to-Image&hide_title=true" alt="Gemini to Image">
@@ -11,8 +11,8 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
     <a href="https://github.com/g-hano/Gemini-Powered-Trip-Planner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-Powered-Trip-Planner&hide_title=true" alt="Gemini Powered Trip Planner">
     </a>
-    <a href="https://github.com/g-hano/Turkish-Movie-Classification-with-Neural-Networks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Turkish-Movie-Classification-with-Neural-Networks&hide_title=true" alt="Turkish Movie Classification with Neural Networks">
+    <a href="https://github.com/g-hano/Smarty-Gemini">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Smarty-Gemini&hide_title=true" alt="Smarty-Gemini">
     </a>
 </div>
 
