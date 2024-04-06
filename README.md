@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am a Software Engineering student interested in Generative AI, Machine Learning and Deep Learning.
 
 ## My Top Repositories
