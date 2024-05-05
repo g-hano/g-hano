@@ -8,8 +8,8 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
     <a href="https://github.com/g-hano/Gemini-to-Image">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-to-Image&hide_title=true" alt="Gemini to Image">
     </a>
-    <a href="https://github.com/g-hano/Gemini-Powered-Trip-Planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Gemini-Powered-Trip-Planner&hide_title=true" alt="Gemini Powered Trip Planner">
+    <a href="https://github.com/g-hano/DiscoVery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=DiscoVery&hide_title=true" alt="DiscoVery">
     </a>
     <a href="https://github.com/g-hano/Smarty-Gemini">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Smarty-Gemini&hide_title=true" alt="Smarty-Gemini">
@@ -19,4 +19,3 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
 ## Contact Me
 - Email: mcihan.yalcin@outlook.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chanyalcin)
-- Twitter: [Twitter Profile](https://twitter.com/Chan__Ya)
