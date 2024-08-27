@@ -12,13 +12,14 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
     <a href="https://github.com/g-hano/DiscoVery">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=DiscoVery&hide_title=false" alt="DiscoVery">
     </a>
-    <a href="[https://github.com/g-hano/ChatLM](https://github.com/g-hano/ChatLM)">
+    <a href="https://github.com/g-hano/ChatLM">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ChatLM&hide_title=false" alt="ChatLM">
-     </a>
-    <a href="[https://github.com/g-hano/SummaryWriter](https://github.com/g-hano/SummaryWriter)">
+    </a>
+    <a href="https://github.com/g-hano/SummaryWriter">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=SummaryWriter&hide_title=false" alt="SummaryWriter">
     </a>
 </div>
+
 
 ## Contact Me
 
