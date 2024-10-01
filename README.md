@@ -20,12 +20,5 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
     </a>
 </div>
 
-
-## Contact Me
-
-[![Email](https://img.shields.io/badge/Email-mcihan.yalcin%40outlook.com-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:mcihan.yalcin@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChanYalcin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanyalcin)
-<p align="center">
-  <img src="https://media.giphy.com/media/13FBIII8M4IDDi/giphy.gif" alt="Dancing Adventure Time GIF" width="500" />
-</p>
-
+## Contribution
+- [HuggingFace Multi Modal LLM integration to Llama-Index](https://github.com/run-llama/llama_index/pull/16133#event-14475483953)
