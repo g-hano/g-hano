@@ -6,8 +6,8 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
 
 ## Projects I am proud of
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant&hide_title=false" alt="Claude-Powered-Study-Assistant">
+    <a href="https://github.com/g-hano/Doraemon-Agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent&hide_title=false" alt="Doraemon-Agent">
     </a>
     <a href="https://github.com/g-hano/DiscoVery">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=DiscoVery&hide_title=false" alt="DiscoVery">
@@ -15,11 +15,14 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
     <a href="https://github.com/g-hano/Smarty-Gemini">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Smarty-Gemini&hide_title=false" alt="ChatLM">
     </a>
-    <a href="https://github.com/g-hano/SummaryWriter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=SummaryWriter&hide_title=false" alt="SummaryWriter">
+    <a href="https://github.com/g-hano/ReadmeCreator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ReadmeCreator&hide_title=false" alt="ReadmeCreator">
     </a>
-  <a href="https://github.com/g-hano/ChatLM">
+    <a href="https://github.com/g-hano/ChatLM">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ChatLM&hide_title=false" alt="ChatLM">
+    </a>
+    <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant&hide_title=false" alt="Claude-Powered-Study-Assistant">
     </a>
 </div>
 
