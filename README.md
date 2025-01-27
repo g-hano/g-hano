@@ -28,3 +28,4 @@ I am a Software Engineering student interested in Generative AI, Machine Learnin
 
 ## Contribution
 - [HuggingFace Multi Modal LLM integration to Llama-Index](https://github.com/run-llama/llama_index/pull/16133#event-14475483953)
+- [MeloTTS Turkish language support](https://github.com/myshell-ai/MeloTTS/pull/223#issuecomment-2608488038)
