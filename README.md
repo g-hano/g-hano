@@ -2,12 +2,12 @@
   <img src="https://i.imgur.com/MvMxQ1a.png" alt="Imgur Image" width="500" />
 </p>
 
-I am a Software Engineering student interested in Generative AI, Machine Learning and Deep Learning.
+I am a Generative AI Engineer that is interested in Deep Learning and Agents.
 
 ## My Favourite Projects 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/g-hano/Doraemon-Agent">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent&hide_title=true" alt="Doraemon-Agent">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent" alt="Doraemon-Agent">
     </a>
     <a href="https://github.com/g-hano/DiscoVery">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=DiscoVery&hide_title=true" alt="DiscoVery">
