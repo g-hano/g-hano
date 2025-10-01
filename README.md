@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/MvMxQ1a.png" alt="Imgur Image" width="500" />
-</p>
-
 I am a Generative AI Engineer that is interested in Deep Learning and Agents.
 
 ## My Favourite Projects 
@@ -34,3 +30,7 @@ I am a Generative AI Engineer that is interested in Deep Learning and Agents.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=g-hano&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-hano&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p align="center">
+  <img src="https://i.imgur.com/MvMxQ1a.png" alt="Imgur Image" width="500" />
+</p>
