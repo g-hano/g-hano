@@ -13,10 +13,6 @@ I am a Generative AI Engineer that is interested in Deep Learning and Agents.
     </a>
     <a href="https://github.com/g-hano/ReadmeCreator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ReadmeCreator&hide_title=true" alt="ReadmeCreator">
-    </a>
-    <a href="https://github.com/g-hano/ChatLM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=ChatLM&hide_title=true" alt="ChatLM">
-    </a>
     <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant&hide_title=true" alt="Claude-Powered-Study-Assistant">
     </a>
