@@ -3,9 +3,11 @@ I am a Generative AI Engineer that is interested in Deep Learning and Agents.
 ## My Favourite Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <!--
     <a href="https://github.com/g-hano/Doraemon-Agent">
-        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent"/>
+        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent" />
     </a>
+    -->
     <a href="https://github.com/g-hano/DiscoVery">
         <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=DiscoVery" />
     </a>
