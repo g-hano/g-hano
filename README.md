@@ -3,11 +3,14 @@ I am a Generative AI Engineer that is interested in Deep Learning and Agents.
 ## My Favourite Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
-    <a href="https://github.com/g-hano/slms">
-        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=slms&cache_seconds=1800" />
-    </a>
+    <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
+        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant" />
+    </a>    
     <a href="https://github.com/g-hano/Doraemon-Agent">
         <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Doraemon-Agent" />
+    </a>
+    <a href="https://github.com/g-hano/slms">
+        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=slms&cache_seconds=1800" />
     </a>
     <a href="https://github.com/g-hano/DiscoVery">
         <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=DiscoVery" />
@@ -15,11 +18,8 @@ I am a Generative AI Engineer that is interested in Deep Learning and Agents.
     <a href="https://github.com/g-hano/Smarty-Gemini">
         <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Smarty-Gemini" />
     </a>
-    <a href="https://github.com/g-hano/ReadmeCreator">
-        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=ReadmeCreator" />
-    </a>
-    <a href="https://github.com/g-hano/Claude-Powered-Study-Assistant">
-        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Claude-Powered-Study-Assistant" />
+    <a href="https://github.com/g-hano/paper-implementations">
+        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=paper-implementations" />
     </a>
 </div>
 
