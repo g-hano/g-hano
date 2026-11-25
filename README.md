@@ -18,9 +18,6 @@ I am a Generative AI Engineer that is interested in Deep Learning and AI Agents.
     <a href="https://github.com/g-hano/Smarty-Gemini">
         <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=Smarty-Gemini" />
     </a>
-    <a href="https://github.com/g-hano/polyvoice">
-        <img src="https://github-readme-stats-sigma-five-20.vercel.app/api/pin/?username=g-hano&repo=polyvoice" />
-    </a>
 </div>
 
 
